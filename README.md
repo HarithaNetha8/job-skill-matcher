@@ -3,7 +3,6 @@
 **Job Skill Matcher** is a web-based application designed to help **job seekers** evaluate how well their skills match a given **job description**.  
 It analyzes resume text and job requirements to generate a **skill match percentage** and highlight **missing or unmatched skills**, enabling users to improve their job readiness.
 
-🔗 **Live Demo:** https://job-skill-matcher-self.vercel.app  
 📌 **GitHub Repository:** https://github.com/HarithaNetha8/job-skill-matcher
 
 ---
@@ -102,14 +101,13 @@ Ensure you have:
 
 ---
 
-### 🔧 Clone Repository
+## 🔧 Clone Repository
 
-```bash
 git clone https://github.com/HarithaNetha8/job-skill-matcher.git
 cd job-skill-matcher
 
 ## ▶️ Frontend Setup
-cd client
+cd client  
 npm install
 npm start
 Runs the frontend at:
@@ -129,6 +127,8 @@ http://localhost:5000
 | POST   | `/api/match`  | Match resume skills with job description |
 | GET    | `/api/health` | Server health check                      |
 
+---
+
 ## 📈 Output
 
 <img width="1365" height="717" alt="Screenshot 2026-01-13 195455" src="https://github.com/user-attachments/assets/7ac833e3-6e01-43b6-ae82-66e200da3301" />
@@ -140,6 +140,7 @@ http://localhost:5000
 <img width="1365" height="630" alt="Screenshot 2026-01-13 200422" src="https://github.com/user-attachments/assets/4653377a-4a6d-4965-ba3b-170a608e703d" />
 <img width="659" height="452" alt="Screenshot 2026-01-13 200546" src="https://github.com/user-attachments/assets/54204a9d-6723-4ae3-99a3-9f76d19c5188" />
 
+---
 ## 🔮 Future Enhancements
 
 Planned improvements (see IMPROVEMENTS.md):
@@ -151,6 +152,7 @@ Planned improvements (see IMPROVEMENTS.md):
 🎯 Job recommendations
 📱 Mobile responsiveness improvements
 
+---
 
 ## 👨‍💻 Use Cases
 
@@ -160,6 +162,7 @@ Skill gap analysis
 Career planning
 Interview readiness
 
+---
 ## 🤝 Contributing
 
 Contributions are welcome!
@@ -171,6 +174,7 @@ Commit changes
 Push to your branch
 Open a Pull Request
 
+---
 
 ## 🙏 Acknowledgements
 
@@ -178,6 +182,7 @@ Open-source community
 Job market research platforms
 NLP & skill matching concepts
 
+---
 ## 👤 Author
 Haritha Netha
 Final-year Engineering Student
@@ -185,3 +190,5 @@ Aspiring Data Analyst | Full-Stack Enthusiast
 
 🔗 GitHub: https://github.com/HarithaNetha8
 🔗 LinkedIn:
+
+---
