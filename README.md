@@ -189,6 +189,7 @@ Final-year Engineering Student
 Aspiring Data Analyst | Full-Stack Enthusiast
 
 🔗 GitHub: https://github.com/HarithaNetha8
-🔗 LinkedIn:
+🔗 LinkedIn: www.linkedin.com/in/haritha-macharla
 
 ---
+
