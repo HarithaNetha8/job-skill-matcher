@@ -20,7 +20,6 @@ This project solves that problem by:
 This project is especially useful for:
 - Final-year students
 - Freshers
-- Career switchers
 - Resume optimization
 
 ---
@@ -192,4 +191,5 @@ Aspiring Data Analyst | Full-Stack Enthusiast
 🔗 LinkedIn: www.linkedin.com/in/haritha-macharla
 
 ---
+
 
