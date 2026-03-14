@@ -68,7 +68,7 @@ This project is especially useful for:
 ---
 
 ## 📂 Project Structure
-
+ ```
 job-skill-matcher/
 │
 ├── client/ # Frontend React application
@@ -86,7 +86,7 @@ job-skill-matcher/
 ├── DEPLOYMENT.md # Deployment guide
 ├── IMPROVEMENTS.md # Future enhancements
 └── README.md # Project documentation
-
+ ```
 ---
 
 ## ⚙️ Installation & Setup
@@ -189,7 +189,5 @@ Aspiring Data Analyst | Full-Stack Enthusiast
 
 🔗 GitHub: https://github.com/HarithaNetha8
 🔗 LinkedIn: www.linkedin.com/in/haritha-macharla
-
----
 
 
